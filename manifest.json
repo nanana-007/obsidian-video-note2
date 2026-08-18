@@ -1,9 +1,0 @@
-{
-  "id": "obsidian-video-note",
-  "name": "视频笔记助手 (Video to Note)",
-  "version": "0.1.0",
-  "minAppVersion": "1.5.0",
-  "description": "粘贴 B站/抖音/小红书等视频链接，自动下载音频、Whisper 转写旁白、Claude 重排为 Markdown 笔记写入库中。",
-  "author": "nannannan",
-  "isDesktopOnly": true
-}
